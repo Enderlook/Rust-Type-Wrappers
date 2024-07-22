@@ -1,0 +1,8 @@
+[package]
+name = "enderlook_type_wrappers"
+version = "0.1.0"
+edition = "2021"
+authors = ["Enderlook"]
+repository = "https://github.com/Enderlook/Rust-Type-Wrappers"
+
+[dependencies]
